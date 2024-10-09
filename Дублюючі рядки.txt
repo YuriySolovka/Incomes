@@ -1,0 +1,6 @@
+
+ajax, hb2.006.mbr.001v0_[8xx-ecg]
+ajax, hb2.006.mbr.001v0[8xx-ecg-66a]
+
+ajax, hb2.008.mbr.001v1[8xx_ecg]_dip
+ajax, hb2.002.mbr.001v2a_dip
